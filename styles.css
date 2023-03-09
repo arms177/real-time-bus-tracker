@@ -1,2 +1,9 @@
 body { margin: 0; padding: 0; }
 #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+.link-dev {
+  margin-top: 15px;
+}
+.link {
+  text-decoration: none;
+  color: white !important;
+  margin-bottom: 20px;
